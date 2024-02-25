@@ -4,7 +4,8 @@
 	"type": "module",
 	"homepage": "https://najwer23.github.io/algorithms",
 	"scripts": {
-		"test": "vitest"
+		"test": "vitest",
+		"bench": "vitest bench"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^7.0.2",
